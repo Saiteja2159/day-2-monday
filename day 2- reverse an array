@@ -15,3 +15,9 @@ int main()
     }     
     return 0;    
 } 
+
+
+Original array:
+18 26 37 48 56
+Array in reverse order:
+56 48 37 26 18
