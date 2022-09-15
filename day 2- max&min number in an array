@@ -30,3 +30,9 @@ int main()
  
     return 0;
 }
+
+
+Enter size of the array : 6
+Enter elements in array : 18 26 42 28 86 62
+minimum of array is : 18
+maximum of array is : 86
