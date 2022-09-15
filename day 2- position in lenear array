@@ -25,3 +25,14 @@ int main()
     else
         printf("Element is not present in the array\n");
 }
+
+
+Enter the number of elements 5
+Enter the elements one by one
+1
+4
+8
+7
+9
+Enter the element to be searched 4
+Element is present in the array at position 2
