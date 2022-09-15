@@ -24,3 +24,48 @@ main(){
 		
 	}
 }
+
+
+enter number of words :
+3
+enter names in any order;
+kumar
+arun
+sai
+the sorted order of names are: arun
+kumar
+sai
+
+
+
+enter number of words :
+2
+enter names in any order;
+zebra
+quiz
+the sorted order of names are: 
+quiz
+zebra
+
+
+enter number of words :
+2
+enter names in any order;
+7
+8
+invalid input
+
+
+enter number of words :
+4
+enter names in any order;
+john
+kim
+anabelle
+ink
+the sorted order of names are: 
+anabelle
+ink
+john
+kim
+
